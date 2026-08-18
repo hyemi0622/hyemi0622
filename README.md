@@ -6,8 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/hyemi0622" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://hyemi0622.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-  <a href="hyemi8292@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://hyemi0622.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-86cecb?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
 
 ---
