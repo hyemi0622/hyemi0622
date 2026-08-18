@@ -62,7 +62,7 @@
 </p>
 
 ---
-
+![snake gif](https://github.com/hyemi0622/hyemi0622/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
