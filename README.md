@@ -17,7 +17,7 @@
 - 🌱 I'm currently learning **더 깊이 있는 백엔드 설계와 새로운 프론트엔드 트렌드**
 - 👯 I'm looking to collaborate on **사용자 편의를 높이는 웹/앱 서비스 프로젝트**
 - 💬 Ask me about **풀스택 개발, 프로젝트 기획 및 구현**
-- 📫 How to reach me: [jessica0622@knu.ac.kr](mailto:jessica0622@knu.ac.kr)
+- 📫 How to reach me: [hyemi8292@naver.com](mailto:hyemi8292@naver.com)
 
 ---
 
@@ -65,21 +65,6 @@
 
 ---
 
-### ⏰ Productive Time (선택)
-`productive-box`를 연동하면 내가 주로 언제 커밋하는지 그래프로 보여줄 수 있어요.
-연동 후 아래처럼 gist를 프로필에 고정하면 됩니다.
-
-```
-1. https://github.com/techinpark/productive-box 를 fork
-2. gist.github.com 에서 새 Public Gist 생성 → gist id 복사
-3. github.com/settings/tokens/new 에서 repo + gist 권한 토큰 생성
-4. fork한 레포의 .github/workflows/Schedule.yml 에서
-   GH_TOKEN, GIST_ID 시크릿(secrets) 등록
-5. 내 프로필에서 해당 gist를 pin
-   (1시간 주기로 갱신, README를 한 번 수정하면 즉시 반영됨)
-```
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square"/>
