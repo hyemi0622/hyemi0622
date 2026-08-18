@@ -13,7 +13,7 @@
 ---
 
 ### 🙋‍♀️ About Me
-- 🔭 I'm currently working on "수어 학습 플랫폼, 세무 조사 플랫폼, 여행 보조 App, 일정 보조 App"
+- 🔭 I'm currently working on "수어 학습 플랫폼, 세무 조사 플랫폼, 여행 보조 앱, 일정 보조 앱"
 - 🌱 I'm currently learning "더 깊이 있는 백엔드 설계와 새로운 프론트엔드 트렌드"
 - 👯 I'm looking to collaborate on "사용자 편의를 높이는 웹/앱 서비스 프로젝트"
 - 💬 Ask me about "풀스택 개발, 프로젝트 기획 및 구현"
