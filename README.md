@@ -1,10 +1,17 @@
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&pause=1000&color=00F0FF&background=0D1117&center=true&vCenter=true&width=1000&height=70&lines=Hi+there!+I'm+Hyemi+%F0%9F%91%8B;A+passionate+Full-Stack+Developer;Frontend+%2B+Backend+%2B+DevOps" alt="Typing SVG" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hyemi0622&label=Profile%20views&color=0e75b6&style=flat" alt="hyemi0622" />
 </p>
-<p align="left">
+<p align="center">
   <a href="https://github.com/hyemi0622" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://hyemi0622.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-f8f8f8?style=for-the-badge&logo=tistory&logoColor=black"/></a>
+</p>
+
+<p align="left">
+  <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhmenI3NHJuaDM5NHl0OGQ2YTRpeTFsczU5YTltb3NpZGtscWtzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vRHKYJFbMNapxHnp6x/giphy.gif" width="500" alt="video look gif"/>
 </p>
 
 ---
