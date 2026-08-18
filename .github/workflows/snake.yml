@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ "hyemi0622" }}
+          github_user_name: ${{ hyemi0622 }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -23,4 +23,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN3 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
