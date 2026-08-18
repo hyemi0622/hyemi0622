@@ -11,11 +11,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api?username=hyemi0622&show_icons=true&theme=radical&cache_seconds=1" alt="hyemi0622's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api/top-langs/?username=hyemi0622&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api?username=hyemi0622&show_icons=true&theme=tokyonight&cache_seconds=1" alt="hyemi0622's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api/top-langs/?username=hyemi0622&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyemi0622&theme=radical" alt="hyemi0622's streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyemi0622&theme=tokyonight" alt="hyemi0622's streak stats"/>
 </p>
 
 ---
