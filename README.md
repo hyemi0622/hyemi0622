@@ -55,10 +55,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api?username=hyemi0622&show_icons=true&theme=radical" alt="hyemi0622's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api?username=hyemi0622&show_icons=true&theme=radical&cache_seconds=1" alt="hyemi0622's GitHub stats" height="165"/>
   <img src="https://github-readme-stats-rho-rouge-74.vercel.app/api/top-langs/?username=hyemi0622&layout=compact&theme=radical" alt="Top Langs" height="165"/>
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyemi0622&theme=radical" alt="hyemi0622's streak stats"/>
 </p>
